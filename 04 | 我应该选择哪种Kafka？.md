@@ -43,3 +43,9 @@ Okay，说完了目前市面上的这些 Kafka，我来对比一下它们的优�
 1. 作者回复: 就我这边观察到的，Confluent很少，创业公司多是CDH，大厂一般使用Apache Kafka，并且自己做了定制和改造
 2. 如果是非常紧急的项目，优先选择商业版，毕竟花了钱以后，有人support。
 3. 如果是研究性质或者时间相对宽松的项目，选择Apache Kafka，可以在和社区不断交流的过程中加深理解，根据项目需求，做一些定制。
+
+kafka eagle 也是非常不错的监控软件，好像也是国人写的，一直在更新，而且不比kafka manager差
+
+
+
+试试JMXTrans + InfluxDB + Grafana
